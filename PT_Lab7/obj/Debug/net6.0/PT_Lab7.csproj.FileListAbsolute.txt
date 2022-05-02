@@ -1,0 +1,15 @@
+/Users/mcbacon4/dev/PT_Lab7/PT_Lab7/bin/Debug/net6.0/PT_Lab7
+/Users/mcbacon4/dev/PT_Lab7/PT_Lab7/bin/Debug/net6.0/PT_Lab7.deps.json
+/Users/mcbacon4/dev/PT_Lab7/PT_Lab7/bin/Debug/net6.0/PT_Lab7.runtimeconfig.json
+/Users/mcbacon4/dev/PT_Lab7/PT_Lab7/bin/Debug/net6.0/PT_Lab7.dll
+/Users/mcbacon4/dev/PT_Lab7/PT_Lab7/bin/Debug/net6.0/PT_Lab7.pdb
+/Users/mcbacon4/dev/PT_Lab7/PT_Lab7/obj/Debug/net6.0/PT_Lab7.csproj.AssemblyReference.cache
+/Users/mcbacon4/dev/PT_Lab7/PT_Lab7/obj/Debug/net6.0/PT_Lab7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mcbacon4/dev/PT_Lab7/PT_Lab7/obj/Debug/net6.0/PT_Lab7.AssemblyInfoInputs.cache
+/Users/mcbacon4/dev/PT_Lab7/PT_Lab7/obj/Debug/net6.0/PT_Lab7.AssemblyInfo.cs
+/Users/mcbacon4/dev/PT_Lab7/PT_Lab7/obj/Debug/net6.0/PT_Lab7.csproj.CoreCompileInputs.cache
+/Users/mcbacon4/dev/PT_Lab7/PT_Lab7/obj/Debug/net6.0/PT_Lab7.dll
+/Users/mcbacon4/dev/PT_Lab7/PT_Lab7/obj/Debug/net6.0/refint/PT_Lab7.dll
+/Users/mcbacon4/dev/PT_Lab7/PT_Lab7/obj/Debug/net6.0/PT_Lab7.pdb
+/Users/mcbacon4/dev/PT_Lab7/PT_Lab7/obj/Debug/net6.0/PT_Lab7.genruntimeconfig.cache
+/Users/mcbacon4/dev/PT_Lab7/PT_Lab7/obj/Debug/net6.0/ref/PT_Lab7.dll
